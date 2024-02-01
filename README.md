@@ -6,7 +6,8 @@ FreeCodeCamp.com Responsive Web Design Certification Project - "Building A Magaz
 CSS Grid gives you control over the rows and columns of your webpage design.
 In this, you'll build a magazine article. You'll learn how to use CSS Grid, including concepts like grid rows and grid columns.
 <p>&nbsp</p>
-https://github.com/Dhanesha151001/Magazine-fcc/assets/103206429/eeb37be6-e45c-431e-9155-9221dde52cf9
+
+https://github.com/Dhanesha151001/Magazine-fcc/assets/103206429/6df23fd3-73be-4793-b27a-df528ae2c7c6
 
 
 
